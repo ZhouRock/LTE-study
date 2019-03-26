@@ -1,6 +1,6 @@
 # LTE-study
-personal repository for LTE study - no company confidential materials
+Note: this is personal repository for LTE study - NO company confidential materials !!!
 
-LTE_introduction_by_zhoulei - ¸ÅÀÀ
-LTE_introduction_PartII_by_zhoulei - »úÖÆÓëÁ÷³Ì
-LTE_introduction_PartIII_by_zhoulei - ÎïÀí²ã½á¹¹
+LTE_introduction_by_zhoulei - LTEæ€»ä½“æ¦‚è§ˆ
+LTE_introduction_PartII_by_zhoulei - LTEæœºåˆ¶ä¸æµç¨‹
+LTE_introduction_PartIII_by_zhoulei - LTEç‰©ç†å±‚ç»“æ„
